@@ -1,0 +1,8 @@
+[package]
+name = "rust-rover"
+version = "0.1.0"
+authors = ["Álvaro Cuesta <alvaro-cuesta@GitHub>"]
+edition = "2018"
+
+[dependencies]
+num = "0.2"
