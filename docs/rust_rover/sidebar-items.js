@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Direction","The four cardinal directions"],["Instruction","Instructions for the rover"]],"struct":[["Position","A position in a 2d plane"],["Rover","A rover with a particular position and direction in a plane"]]});
